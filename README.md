@@ -7,7 +7,7 @@ Follow the steps below to run this microservice locally.
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/RohanAC09/URL-Shortner.git
-cd URL-Shortner/
+cd url-shortner-backend/
 ```
 
 ### 2. Build the image with Docker
